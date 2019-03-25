@@ -5,11 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 [John Mwangi](link)
 
 ## Project Description
-This is an Angular application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational. Once the user creates a new Quote they can be able to see extra details of the quote which include name of the author & publisher and the days passed from the time it was created. The user can also upvote or downvote a quote based their attitude about the quote. Finally the quote with most upvotes is highlighted.
+This is an Angular application whereby users are able to create quotes and have those quotes voted on whether they are terrible or are inspirational. Once the user creates a new Quote they can be able to see extra details of the quote which include name of the author & publisher and the days passed from the time it was created. The user can also upvote or downvote a quote based their attitude about the quote. Finally the quote with most upvotes is highlighted.
 
 ### Project Setup instructions
-Use the following commands to use this project.
-- git clone https://github.com/Antavio/Quotes.git
+Use the following to get to the quote application.
+- git clone (link)
 - cd Quotes
 - atom .  //For those using atom text editor.
 - code .  //For those using Visual Studio editor.
@@ -33,11 +33,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ### Technologies used
 The different technologies that were used to develop this program include:
 1. Angular.
-2. Bootstrap.
+2. Typescript.
 3. Javascript.
-4. Typescript.
+4. Bootsrap.
 
-###Project's BDD
+
+##Project's BDD
 
 | User input                                          | Behaviour                                                                                                                   |
 |-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
