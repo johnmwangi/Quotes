@@ -51,14 +51,14 @@ Here is a link to the live site https://antavio.github.io/Quotes/
 
 
 ### Contact Me
-If you have any suggestions, additions or modifications on this project you can reach me via my email: njuguna13@gmail.com
+Incase of any additional contribution or suggestion on the project reach out on me @jonesmwas22 or jonesmwas356@gmail.com.
 
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ### License  & Copyright information
-Copyright (c) 2019 Anthony Njuguna
+Copyright (c) 2019 John Mwangi.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
