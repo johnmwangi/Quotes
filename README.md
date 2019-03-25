@@ -36,9 +36,11 @@ The different technologies that were used to develop this program include:
 2. Typescript.
 3. Javascript.
 4. Bootsrap.
+5. css.
+6. HTML.
 
 
-##Project's BDD
+## BDD
 
 | User input                                          | Behaviour                                                                                                                   |
 |-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
