@@ -9,14 +9,12 @@ import { Quote } from '../quote'
 export class QuoteComponent implements OnInit {
 
   quotes = [
-    new Quote(1, 'I surrendered my heart to you the day we met', 'Emilia Clarke', new Date(2019, 2, 18)),
-    new Quote(2, 'The story of my life is all about you,my love', 'Stefflon Don', new Date(2019, 0, 7)),
-    new Quote(3, 'Ill love you,honour you,cherish you till the day I die', 'Chris Adams', new Date(2019, 6, 26)),
-    new Quote(4, 'Lying beside you make me feel blessed', 'Yual Pablo', new Date(2019, 11, 12)),
-    new Quote(5, 'Ill forever carry you and hold you in my heart', 'Terrence J', new Date(2019, 5, 1)),
-    new Quote(6, 'We are tangled,knotted,locked,and tied to each other forever', 'William Shakespere', new Date(2019, 7, 27)),
-    new Quote(7, 'Surely,am being rewarded cause I have you', 'Harry Potter', new Date(2019, 12, 18)),
-    new Quote(8, 'Saying you are beautiful is an understatement', 'Oruko Pius', new Date(2019, 6, 23)),
+    new Quote(1, 'The quickest way to double your money is to fold it over and put it back in your pocket', 'Will Rodgers', new Date(2019, 2, 18)),
+    new Quote(2, 'Even if you’re on the right track, you’ll get run over if you just sit there', 'Jobroy Mwaura', new Date(2019, 0, 7)),
+    new Quote(3, 'Nurture your mind with great thoughts. To believe in the heroic makes heroes.', 'Benjamin Disrael', new Date(2019, 6, 26)),
+    new Quote(4, 'When I let go of what I am, I become what I might be', 'Jantrix Jane', new Date(2019, 7, 27)),
+    new Quote(5, 'Luck is a dividend of sweat. The more you sweat, the luckier you get.', 'Barbra Gee', new Date(2019, 12, 18)),
+    new Quote(6, 'The real opportunity for success lies within the person and not in the job', 'Zig Ziglar', new Date(2019, 6, 23)),
   ]
   deleteQuote(isComplete, index) {
     if (isComplete) {
