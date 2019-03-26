@@ -9,7 +9,7 @@ This is an Angular application whereby users are able to create quotes and have 
 
 ### Project Setup instructions
 Use the following to get to the quote application.
-- git clone (link)
+- git clone (https://johnmwangi.github.io/Quotes/)
 - cd Quotes
 - atom .  //For those using atom text editor.
 - code .  //For those using Visual Studio editor.
@@ -49,7 +49,7 @@ The different technologies that were used to develop this program include:
 | If the user click delete quote.                     | The pop up alerts with cancel and ok option if user clicks ok the upvote and downvote get rids if click cancel they remain. |
 
 ### Link to live site
-Here is a link to the live site (link)
+Here is a link to the live site (https://johnmwangi.github.io/Quotes/)
 
 
 
