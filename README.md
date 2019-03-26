@@ -2,7 +2,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ## Author
-[John Mwangi](link)
+[John Mwangi](https://johnmwangi.github.io/Quotes/)
 
 ## Project Description
 This is an Angular application whereby users are able to create quotes and have those quotes voted on whether they are terrible or are inspirational. Once the user creates a new Quote they can be able to see extra details of the quote which include name of the author & publisher and the days passed from the time it was created. The user can also upvote or downvote a quote based their attitude about the quote. Finally the quote with most upvotes is highlighted.
