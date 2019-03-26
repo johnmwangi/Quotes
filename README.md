@@ -49,7 +49,7 @@ The different technologies that were used to develop this program include:
 | If the user click delete quote.                     | The pop up alerts with cancel and ok option if user clicks ok the upvote and downvote get rids if click cancel they remain. |
 
 ### Link to live site
-Here is a link to the live site https://antavio.github.io/Quotes/
+Here is a link to the live site (link)
 
 
 
