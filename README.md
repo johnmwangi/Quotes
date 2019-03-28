@@ -9,7 +9,7 @@ This is an Angular application whereby users are able to create quotes and have 
 
 ### Project Setup instructions
 Use the following to get to the quote application.
-- git clone (https://johnmwangi.github.io/Quotes/)
+
 - cd Quotes
 - atom .  //For those using atom text editor.
 - code .  //For those using Visual Studio editor.
